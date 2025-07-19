@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node q8.js",                     
+    "test": "echo \"Running tests for q_8...\" && exit 0",  
+    "build": "webpack --config webpack.config.js", 
+    "lint": "eslint .",                            
+    "dev": "nodemon q8.js"                    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "archiver": "^7.0.1",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}

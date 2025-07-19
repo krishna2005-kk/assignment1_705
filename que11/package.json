@@ -1,0 +1,23 @@
+{
+  "name": "que_11-k",
+  "version": "1.0.3",
+  "description": "A utility to convert strings to camelCase, snake_case, and kebab-case",
+  "keywords": [
+    "[\"string\"",
+    "\"case\"",
+    "\"utility\"",
+    "\"camelCase\"",
+    "\"snake_case\"",
+    "\"kebab-case\"]"
+  ],
+  "license": "ISC",
+  "author": "krishna",
+  "type": "commonjs",
+  "main": "q11.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "dependencies": {
+    "que_11-k": "^1.0.3"
+  }
+}
